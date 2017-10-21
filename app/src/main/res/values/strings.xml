@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Train Chat</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="facebook_app_id">2008294629402151</string>
+    <string name="fb_login_protocol_scheme">fb2008294629402151</string>
+    <string name="App_Version_Code">1</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="app_desc">Train updates are most important part of mumbaikar\'s life because we are depend on trains for traveling to office, colleges,etc. With Train Chat app now you can stay in contact with every passengers in Mumbai and like a community we all can share train updates,delays, incidents, mega-blocks and much more</string>
+
+    <string name="ProfilePic"></string>
+
+    <!--Test ID  -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="int_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+-->
+
+
+    <!-- Oriinal id
+    <string name="banner_ad_unit_id">ca-app-pub-6702661245453687/6566259341</string>
+    <string name="int_ad_unit_id">ca-app-pub-6702661245453687/2020332065</string>
+    <string name="app_id">ca-app-pub-6702661245453687~1888647732</string>
+-->
+
+
+    <!-- Railway Helplines -->
+
+    <string name="Railway_Acidents_Emergency_events">9833331111</string>
+    <string name="W_RPF">1311</string>
+    <string name="C_RPF">1275</string>
+    <string name="IRS">182</string>
+    <string name="cus_helpline">138</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Development\Project\TrainChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android_Development\Project\TrainChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d9419d58fecff3394762b932411e655e5cf600bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Development\Project\TrainChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04174aaa8bca4f95a9a3faea735040b14b270b19">
+        <dex dex="D:\Android_Development\Project\TrainChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4651b78896b03750307fe9a33270b25d24fdd53e\classes.dex" />
+    </item>
+
+</items>
